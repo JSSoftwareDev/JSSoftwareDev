@@ -5,7 +5,7 @@
 - 💞️ I’m open to collaborating on exciting projects and contributing to the developer community.
 - 📫 You can reach me through (https://www.linkedin.com/in/jamailshabazz/).
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact:  Fun fact:  I brewed a web app using Python, PyTorch, and OpenCV, infusing ML and AI into StepOut's sports revolution.
+- ⚡ Fun fact:  Fun fact:  I brewed a up web app using Python, PyTorch, and OpenCV, infusing ML and AI into StepOut's sports revolution.
 
 
 Let's build something amazing together! 🚀
